@@ -1,2 +1,2 @@
 # HackerRank
-30 Days Challege
+30 Days Challenge
